@@ -1,0 +1,13 @@
+[package]
+name = "nation-sim-dev/voting-system"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Knit = "sleitnick/knit@^1.4"
+Signal = "sleitnick/signal@1.3.0"
+EnumList = "sleitnick/enum-list@2.0.1"
+TableUtil = "sleitnick/table-util@1.2.0"
+
+testez = "roblox/testez@0.4.1"
